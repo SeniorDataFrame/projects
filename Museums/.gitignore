@@ -1,3 +1,4 @@
 config.ini
 *.db
 *.docx
+__pycache__/
